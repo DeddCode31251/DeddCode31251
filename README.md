@@ -1,5 +1,25 @@
-# 💫 About Me:
-# Hey, I'm Deadcode 👋<br><br>I'm a **Full-Stack Web Developer, Bug Bounty Researcher, AI Automation Developer, and Programmer** passionate about building software, exploring cybersecurity, and learning how systems work from the ground up.<br><br>### 🚀 What I Work With<br><br>* 🌐 **Full-Stack Development** — HTML, CSS, JavaScript, React, Node.js, Express, PHP, MySQL<br>* 🐍 **Python** — Automation, APIs, AI, data, and scripting<br>* ⚙️ **C / C#** — Systems programming and Unity development<br>* 🤖 **AI & Automation** — LLMs, AI agents, n8n, workflow automation, and AI-powered applications<br>* 🔐 **Cybersecurity** — Bug bounty research, web security, reconnaissance, and vulnerability research<br>* 🔌 **Electronics & IoT** — Arduino, ESP32/ESP8266, sensors, robotics, and embedded projects<br>* 🧠 **Computer Science** — Algorithms, data structures, Linux, networking, and computer systems<br>* 🧮 **Machine Learning** — Mathematics for ML, data science, ML, deep learning, and LLMs<br><br>### 🛠️ Projects<br><br>I've built and experimented with projects including:<br><br>* **DeadIV-OS** — My own operating-system project<br>* **DEADHASH** — Hashing/security project<br>* **Tokiforge** — Full-stack web/API project<br>* **TokiTools** — A collection of useful online developer tools<br>* **StudyPilot** — AI-powered student productivity and study planning<br>* **Python Robot** — ESP8266 + Python-controlled robotics project<br>* **AI Automation Workflows** — Automation systems for businesses using AI and n8n<br>* **Voice Assistant** — Python + Ollama AI assistant<br>* **YouTube Automation** — AI-assisted content generation and automation<br><br>### 🎯 Currently Learning<br><br>**AI Engineering • Cybersecurity • Full-Stack Development • Systems Programming • Electronics • Machine Learning • Algorithms**<br><br>I enjoy going from **"How does this work?"** to actually building it myself.<br><br>> **Build. Break. Learn. Automate. Repeat.**<br>
+# About Me
+
+Hey, I'm **Deadcode**.
+
+I'm a **Full-Stack Developer, AI Automation Developer, Bug Bounty Researcher, and Programmer** interested in building software, cybersecurity, AI, and low-level systems.
+
+### Focus
+
+* Full-Stack Development
+* AI & Automation
+* Cybersecurity & Bug Bounty
+* Python, C & C#
+* Linux & Systems Programming
+* Electronics & IoT
+* Machine Learning
+
+### Projects
+
+**DeadIV-OS • DEADHASH • Tokiforge • TokiTools • StudyPilot • Python Robot**
+
+> **Build. Break. Learn. Repeat.**
+
 
 
 ## 🌐 Socials:
@@ -21,4 +41,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=DeddCode31251&icon=5&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
