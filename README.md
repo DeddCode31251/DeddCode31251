@@ -1,20 +1,29 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090014,50:24104F,100:7B2FF7&text=DEADCODE&fontColor=FFFFFF&fontSize=65&fontAlignY=38&desc=BUILD.%20BREAK.%20LEARN.%20REPEAT.&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Deadcode Banner"/>
 
 # ⚡ DEADCODE
 
 ### Full-Stack Developer • AI Automation • Cybersecurity
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9D7BFF&center=true&vCenter=true&width=700&lines=Building+Things+That+Matter.;Exploring+the+World+of+Cybersecurity.;Automating+the+Repetitive.;Learning+How+Systems+Work.;Build.+Break.+Learn.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%26+Automation+Developer;Cybersecurity+%26+Bug+Bounty;Python+%7C+C+%7C+JavaScript;Build.+Break.+Learn.+Repeat." alt="Typing SVG"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-DeddCode31251-181717?style=for-the-badge&logo=github)](https://github.com/DeddCode31251)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DeadIV)
-[![YouTube](https://img.shields.io/badge/YouTube-BattleFist-y8i-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BattleFist-y8i)
+<a href="https://github.com/DeddCode31251">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://tryhackme.com/p/DeadIV">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+</a>
+<a href="https://www.instagram.com/vlogix3/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.youtube.com/@BattleFist-y8i">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=DeddCode31251&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -26,74 +35,78 @@
 
 Hey! I'm **Deadcode**, a developer and cybersecurity enthusiast passionate about understanding technology from the application layer all the way down to the system level.
 
-I enjoy building useful software, automating workflows, exploring security vulnerabilities in authorized environments, and experimenting with low-level programming.
+I build software, automate workflows, explore cybersecurity, and experiment with low-level programming.
 
-I don't just want to use technology. I want to understand how it works, how it breaks, and how to build it better.
+My goal is simple: **understand how technology works, how it breaks, and how to build it better.**
 
-- 💻 **Development:** Full-stack applications and backend systems.
-- 🤖 **Automation:** AI-powered tools and workflow automation.
-- 🛡️ **Cybersecurity:** Web security, ethical hacking, and bug bounty research.
-- ⚙️ **Systems:** C programming, Linux, and operating system development.
-- 🔌 **Hardware:** Electronics, embedded systems, and IoT.
-- 🧠 **AI & ML:** Machine learning and intelligent applications.
+- 💻 **Full-Stack Development** — Building web applications and backend systems.
+- 🤖 **AI & Automation** — Creating intelligent tools and automated workflows.
+- 🛡️ **Cybersecurity** — Web security, ethical hacking, and bug bounty research.
+- ⚙️ **Systems Programming** — C, Linux, and operating system development.
+- 🔌 **Electronics & IoT** — Microcontrollers, robotics, and embedded systems.
+- 🧠 **Machine Learning** — Exploring intelligent applications and AI.
 
 > *"The best way to understand a system is to build it, break it, and understand why it broke."*
 
 ---
 
-## 🧰 Tech Arsenal
+## 🧰 Tech Stack
 
 ### 💻 Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cs,python,js,html,css" alt="Programming Languages"/>
+</p>
 
 ### 🌐 Web Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,tailwind,cloudflare" alt="Web Development"/>
+</p>
+
+### ⚙️ Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,vscode" alt="Development Tools"/>
+</p>
+
+### 🔌 Electronics & Hardware
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Electronics and Hardware"/>
+</p>
+
+**Additional Technologies**
+
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### 🤖 AI, Automation & Infrastructure
-
-![Python](https://img.shields.io/badge/AI_&_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🛡️ Cybersecurity & Electronics
-
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-Projects that represent what I enjoy building and learning.
+<div align="center">
 
-| Project | Description | Focus |
-|---|---|---|
-| 🖥️ **DeadIV-OS** | An experimental operating system project built to explore low-level computing. | C • Assembly • OS Development |
-| 🔐 **DEADHASH** | A project focused on hashing and security-related programming. | Programming • Security |
-| ⚙️ **TokiForge** | A development project exploring web technologies and application building. | Node.js • Express • MySQL |
-| 🧰 **TokiTools** | A collection of useful tools designed to make everyday tasks easier. | Web Development |
+| Project | Description | Technologies |
+|:---|:---|:---|
+| 🖥️ **DeadIV-OS** | An experimental operating system exploring low-level computing and kernel development. | C, Assembly |
+| 🔐 **DEADHASH** | A security-related programming project focused on hashing concepts. | Programming, Security |
+| ⚙️ **TokiForge** | A development project exploring backend systems and web technologies. | Node.js, Express, MySQL |
+| 🧰 **TokiTools** | A collection of practical utilities designed to make everyday tasks easier. | Web Development |
 | 📚 **StudyPilot** | A study-planning application concept for organizing subjects and tasks. | Web Development |
-| 🤖 **Python Robot** | An interactive robotics project combining programming and electronics. | Python • IoT • Embedded Systems |
+| 🤖 **Python Robot** | An interactive robotics project combining software and electronics. | Python, IoT |
 
-> 🔗 Explore my repositories to see the source code, implementation details, and project progress.
+</div>
 
-**[➡️ Explore All My Repositories](https://github.com/DeddCode31251?tab=repositories)**
+<div align="center">
+
+<a href="https://github.com/DeddCode31251?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+</a>
+
+</div>
 
 ---
 
@@ -101,21 +114,23 @@ Projects that represent what I enjoy building and learning.
 
 I'm interested in understanding how applications and systems fail, how vulnerabilities are discovered, and how they can be prevented.
 
-### Areas of Interest
+**Areas of Interest**
 
-- 🔎 Web application security
-- 🌐 Network fundamentals and enumeration
-- 🧪 Vulnerability research and analysis
-- 🐛 Bug bounty methodologies
-- 🔐 Authentication and access control
-- 🐧 Linux and system security
-- 🛠️ Security testing in authorized environments
-
-### Practice & Learning
+- 🔎 Web Application Security
+- 🌐 Network Fundamentals & Enumeration
+- 🧪 Vulnerability Research
+- 🐛 Bug Bounty Methodology
+- 🔐 Authentication & Access Control
+- 🐧 Linux & System Security
+- 🛠️ Security Testing in Authorized Environments
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/Explore_My_TryHackMe_Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](YOUR_TRYHACKME_PROFILE_URL)
+<a href="https://tryhackme.com/p/DeadIV">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_TRYHACKME_PROFILE-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
+</a>
+
+<br/><br/>
 
 **Learn. Practice. Investigate. Improve.**
 
@@ -123,25 +138,27 @@ I'm interested in understanding how applications and systems fail, how vulnerabi
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=DeddCode31251&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DeddCode31251&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 
-<img height="180" src="https://streak-stats.demolab.com/?user=DeddCode31251&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img height="180" src="https://streak-stats.demolab.com?user=DeddCode31251&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DeddCode31251&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeddCode31251&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 🏆 Contributions
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeddCode31251&theme=tokyo-night&hide_border=true)](https://github.com/DeddCode31251)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeddCode31251&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
@@ -151,11 +168,11 @@ I'm interested in understanding how applications and systems fail, how vulnerabi
 
 <div align="center">
 
-### Build. Break. Learn. Repeat.
+### ⚡ BUILD. BREAK. LEARN. REPEAT.
 
 **Write code. Understand systems. Question assumptions.**
 
-*Every bug is a lesson. Every project is an experiment.*
+Every bug is a lesson. Every project is an experiment.
 
 </div>
 
@@ -163,24 +180,30 @@ I'm interested in understanding how applications and systems fail, how vulnerabi
 
 ## 🌐 Connect With Me
 
-I'm always interested in software development, cybersecurity, automation, and interesting technical projects.
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeddCode31251)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557851075397)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/vlogix3/))
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BattleFist-y8i)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deadcode6666@gmail.com)
+<a href="https://github.com/DeddCode31251">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=61557851075397">
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://www.instagram.com/vlogix3/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.youtube.com/@BattleFist-y8i">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="mailto:deadcode6666@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-</div>
+<br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7B2FF7,50:24104F,100:090014" width="100%" alt="Footer Banner"/>
 
-<div align="center">
+### ⚡ DEADCODE
 
-### ⚡ Build something worth understanding.
-
-**DEADCODE** © 2026
+*Building today. Understanding tomorrow.*
 
 </div>
