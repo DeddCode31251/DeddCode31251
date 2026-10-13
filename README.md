@@ -11,7 +11,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-DeddCode31251-181717?style=for-the-badge&logo=github)](https://github.com/DeddCode31251)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](YOUR_TRYHACKME_PROFILE_URL)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DeadIV)
 [![YouTube](https://img.shields.io/badge/YouTube-BattleFist-y8i-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BattleFist-y8i)
 
 <br/>
@@ -169,7 +169,7 @@ I'm always interested in software development, cybersecurity, automation, and in
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeddCode31251)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557851075397)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_PROFILE_URL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/vlogix3/))
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BattleFist-y8i)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deadcode6666@gmail.com)
 
