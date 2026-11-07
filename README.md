@@ -16,7 +16,7 @@
 <a href="https://tryhackme.com/p/DeadIV">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
 </a>
-<a href="https://www.instagram.com/vlogix3/">
+<a href="https://www.instagram.com/k3rn3l.p2n1c/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://www.youtube.com/@BattleFist-y8i">
