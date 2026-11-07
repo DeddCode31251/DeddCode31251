@@ -34,6 +34,7 @@
 ## 👾 About Me
 
 Hey! I'm **Deadcode**, a developer and cybersecurity enthusiast passionate about understanding technology from the application layer all the way down to the system level.
+Top 2% on tryhackme. Mentored 30+ Students and 3100+ hours of coding.
 
 I build software, automate workflows, explore cybersecurity, and experiment with low-level programming.
 
