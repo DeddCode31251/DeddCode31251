@@ -186,10 +186,7 @@ Every bug is a lesson. Every project is an experiment.
 <a href="https://github.com/DeddCode31251">
   <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.facebook.com/profile.php?id=61557851075397">
-  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="https://www.instagram.com/vlogix3/">
+<a href="https://www.instagram.com/k3rn3l.p2n1c/">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://www.youtube.com/@BattleFist-y8i">
